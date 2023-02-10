@@ -1,0 +1,41 @@
+*{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+ body {
+    height: 100%;
+    margin: 0;
+}
+.title{
+    margin-top: 100px;
+    font-size: 50px;
+    font-family: 'Rajdhani', sans-serif;
+    
+}
+.msgg{
+    font-size: 40px;
+    margin-bottom: 70px;
+}
+.time{
+    font-size: 80px;
+}
+#link{
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    padding: 17px;
+    border-radius: 12px;
+}
+.main-content {
+    min-height: 100%;
+    padding-bottom: 50px; /* Height of the footer */
+}
+
+.foot{
+    height: 50px; /* Height of the footer */
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
